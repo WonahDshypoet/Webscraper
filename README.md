@@ -1,2 +1,2 @@
 # Webscraper
-scraping paragraphs and saving in csv format
+Webscraping information from my personal website
